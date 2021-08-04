@@ -1,1 +1,1 @@
-this is answer 41A codeforces
+the answer is 41A codeforces
